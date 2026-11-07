@@ -15,4 +15,11 @@ I specialize in building scalable web applications using the **MERN Stack**, **N
 * **Backend:** Node.js, Express, MongoDB
 * **Tools:** AWS, Docker, Git
 
+
+  ### 🛠️ Projects I've Built
+- **[SwiftKitHub](https://swiftkithub.com)** — 100% Client-Side E-Commerce Profit, ROAS & Developer Workbench.
+  - [Break-Even ROAS Calculator](https://swiftkithub.com/break-even-roas-calculator)
+  - [TikTok Shop UK VAT Calculator](https://swiftkithub.com/tiktok-shop-uk-vat-profit-calculator)
+  - [RFC 9562 UUID v7 Generator](https://swiftkithub.com/uuid-generator)
+
 Search tags: Muhammad Junaid GitHub, Muhammad Junaid Developer, Muhammad Junaid Peshawar , Muhammad Junaid.
